@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chat:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64eff769-040a-49de-92b6-3bf2cd774d77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cookie_value: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="itis_user: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="chat_bd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="chat_bd: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="messages: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1aWXWlvYqG9zKMYt5qqLQCLrMJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/itis/chat" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.itis.chat.repositories" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.itis.chat.config" />
+      <recent name="ru.itis.chat.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/ru/itis/chat" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/ftl/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/ru/itis/chat/services" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.172" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.172" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Chat:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Chat" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60235" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chat:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Chat" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60235" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chat:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14243974" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:chat_bd@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:chat_bd@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7481e6a5" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64eff769-040a-49de-92b6-3bf2cd774d77" name="Default Changelist" comment="" />
+      <created>1586852357539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586852357539</updated>
+      <workItem from="1586852362594" duration="15072000" />
+      <workItem from="1586969234232" duration="4794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="267" key="#BuildArtifactsBeforeRunChooser" timestamp="1586862774495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="643" y="267" key="#BuildArtifactsBeforeRunChooser/0.0.1440.900@0.0.1440.900" timestamp="1586862774495" />
+    <state x="320" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587024279353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587024279353" />
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1586865292896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586865292896" />
+    <state x="345" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586858185060">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="345" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1586858185060" />
+    <state x="356" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586865430953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="356" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1586865430953" />
+    <state width="1173" height="309" key="GridCell.Tab.0.bottom" timestamp="1587028077648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587028077648" />
+    <state width="1173" height="309" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1587027345320" />
+    <state width="1173" height="309" key="GridCell.Tab.0.center" timestamp="1587028077638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587028077638" />
+    <state width="1173" height="309" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1587027345318" />
+    <state width="1173" height="309" key="GridCell.Tab.0.left" timestamp="1587028077638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587028077638" />
+    <state width="1173" height="309" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1587027345317" />
+    <state width="1173" height="309" key="GridCell.Tab.0.right" timestamp="1587028077647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587028077647" />
+    <state width="1173" height="309" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1587027345319" />
+    <state width="1173" height="309" key="GridCell.Tab.1.bottom" timestamp="1587028077650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587028077650" />
+    <state width="1173" height="309" key="GridCell.Tab.1.bottom/0.23.1440.852@0.23.1440.852" timestamp="1587027345111" />
+    <state width="1173" height="309" key="GridCell.Tab.1.center" timestamp="1587028077649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587028077649" />
+    <state width="1173" height="309" key="GridCell.Tab.1.center/0.23.1440.852@0.23.1440.852" timestamp="1587027345109" />
+    <state width="1173" height="309" key="GridCell.Tab.1.left" timestamp="1587028077648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587028077648" />
+    <state width="1173" height="309" key="GridCell.Tab.1.left/0.23.1440.852@0.23.1440.852" timestamp="1587027345108" />
+    <state width="1173" height="309" key="GridCell.Tab.1.right" timestamp="1587028077649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587028077649" />
+    <state width="1173" height="309" key="GridCell.Tab.1.right/0.23.1440.852@0.23.1440.852" timestamp="1587027345110" />
+    <state width="1173" height="309" key="GridCell.Tab.2.bottom" timestamp="1587028077652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587028077652" />
+    <state width="1173" height="309" key="GridCell.Tab.2.bottom/0.23.1440.852@0.23.1440.852" timestamp="1587027345114" />
+    <state width="1173" height="309" key="GridCell.Tab.2.center" timestamp="1587028077651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1587028077651" />
+    <state width="1173" height="309" key="GridCell.Tab.2.center/0.23.1440.852@0.23.1440.852" timestamp="1587027345112" />
+    <state width="1173" height="309" key="GridCell.Tab.2.left" timestamp="1587028077650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1587028077650" />
+    <state width="1173" height="309" key="GridCell.Tab.2.left/0.23.1440.852@0.23.1440.852" timestamp="1587027345111" />
+    <state width="1173" height="309" key="GridCell.Tab.2.right" timestamp="1587028077651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1587028077651" />
+    <state width="1173" height="309" key="GridCell.Tab.2.right/0.23.1440.852@0.23.1440.852" timestamp="1587027345113" />
+    <state width="1173" height="309" key="GridCell.Tab.3.bottom" timestamp="1587027345119">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587027329922" />
+    <state width="1173" height="309" key="GridCell.Tab.3.bottom/0.23.1440.852@0.23.1440.852" timestamp="1587027345119" />
+    <state width="1173" height="309" key="GridCell.Tab.3.center" timestamp="1587027345117">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1587027329921" />
+    <state width="1173" height="309" key="GridCell.Tab.3.center/0.23.1440.852@0.23.1440.852" timestamp="1587027345117" />
+    <state width="1173" height="309" key="GridCell.Tab.3.left" timestamp="1587027345116">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1587027329919" />
+    <state width="1173" height="309" key="GridCell.Tab.3.left/0.23.1440.852@0.23.1440.852" timestamp="1587027345116" />
+    <state width="1173" height="309" key="GridCell.Tab.3.right" timestamp="1587027345118">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1173" height="309" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1587027329921" />
+    <state width="1173" height="309" key="GridCell.Tab.3.right/0.23.1440.852@0.23.1440.852" timestamp="1587027345118" />
+    <state width="958" height="245" key="GridCell.Tab.8.bottom" timestamp="1586862872862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="245" key="GridCell.Tab.8.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586862872862" />
+    <state width="958" height="245" key="GridCell.Tab.8.center" timestamp="1586862872858">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="245" key="GridCell.Tab.8.center/0.0.1440.900@0.0.1440.900" timestamp="1586862872858" />
+    <state width="958" height="245" key="GridCell.Tab.8.left" timestamp="1586862872856">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="245" key="GridCell.Tab.8.left/0.0.1440.900@0.0.1440.900" timestamp="1586862872856" />
+    <state width="958" height="245" key="GridCell.Tab.8.right" timestamp="1586862872860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="958" height="245" key="GridCell.Tab.8.right/0.0.1440.900@0.0.1440.900" timestamp="1586862872860" />
+    <state x="319" y="201" key="Maven.ArtifactSearchDialog" timestamp="1586867504633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="201" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1586867504633" />
+    <state x="611" y="353" width="338" height="226" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586869789396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="611" y="353" width="338" height="226" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.900@0.0.1440.900" timestamp="1586869789396" />
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586866833627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1586866833627" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/AuthHandshakeHandler.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/config/WebSocketConfiguration.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/config/WebSocketConfiguration.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/config/WebSocketConfiguration.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/handlers/MessagesWebSocketHandler.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itis/chat/config/WebSocketConfiguration.java</url>
+          <line>28</line>
+          <properties class="ru.itis.chat.config.WebSocketConfiguration" method="registerWebSocketHandlers">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
